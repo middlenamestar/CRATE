@@ -12,15 +12,17 @@ Users can:
 
 ## Usage
 
-*heroku link*
+[ENTER](https://crate9o9.herokuapp.com/) site
 
 Navigate through the homepage, where the user is presented with both DIG and SEEK sections. The user can click on a post of interest and check out the details of the post. Navigate to the DIG and SEEK tabs in the nav for content of only dig, or only seek.
 
 User must register an account or log in to be able to make a post or comment!
 
-*screenshot*
+crate looks a little something like this:
 
-<!-- ![homepage](assets/screencapture-lit-oasis-94681-herokuapp-2022-03-07-15_03_33.png) -->
+![crate's landing page](assets/screenshot.png)
+
+Feel free to make your addition! Add a record, or post a call for a record you've been wanting!
 
 ## Contributors
 
