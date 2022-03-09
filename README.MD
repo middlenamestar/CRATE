@@ -1,10 +1,10 @@
-# crate
+# crate ❒
 
 ## Description
 
-The crate application is an online community where users can buy, sell, search for, and discover music. crate is designed to fill the gap left behind when brick and morter music stores began to shutter. While it is a marketplace, its primary goal is to create a platform to connect users and gather together the in the ways they used too. 
+crate is an online community where users can buy, sell, search for, and discover music. crate is designed to fill the gap left behind when brick and morter music stores began to shutter. While it is a marketplace, its primary goal is to create a platform to connect users and gather together the in the ways they used to.
 
-crate is a full stack web application built primarily on node.js, MySql, Express, and Handlebars. 
+crate is a full-stack web application built primarily on node.js, MySql, Express, Handlebars, and deployed with Heroku. 
 
 Users can: 
  - Create posts to buy and sell music
@@ -12,65 +12,41 @@ Users can:
  - Add comments to interact with other users
  - Secure login functionality
 
-## Table of Contents (Optional)
+## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
-
-`git clone git@github.com:mitchroutman/crate.git`
-
-
 ## Usage
 
-For full user experience - register an account using the REGISTER button in the top right hand corner. Once logged in - users can interact with all records for sale using the DIG nav button, or use the SEEK button to see all other user requests. 
+heroku link
 
-Once in an individual listing, users can comment to share thoughts/feelings about postsings or offer to sell/buy items. 
+Navigate through the homepage, where the user is presented with both DIG and SEEK sections. The user can click on a post of interest and check out the details of the post. Navigate to the DIG and SEEK tabs in the nav for content of only dig, or only seek.
+
+User must register an account or log in to be able to make a post, or comment!
 
 The homepage once logged in will look like this - 
 
+screenshot
+
 ![homepage](assets/screencapture-lit-oasis-94681-herokuapp-2022-03-07-15_03_33.png)
+
+## Contributors
+
+This app was built by our team! Check us out! [Priscilla Ma](https://github.com/middlenamestar) • [Mitchell Routman](https://github.com/mitchroutman) • [Will Neal](https://github.com/Will-Neal)
 
 ## Credits
 
- - Priscilla Ma - https://github.com/middlenamestar
- - Will Neal - https://github.com/Will-Neal
+Want to give a special thanks to the artists on Pexels. We used a few of their images listed here:
 
-## License
+- https://www.pexels.com/photo/black-and-gray-vinyl-record-2746823/
 
-![licensebage](https://img.shields.io/badge/license-MIT-orange?style=plastic=appveyor?raw=true)
+- https://www.pexels.com/photo/dj-controller-photo-3550240/
 
-MIT License
+- https://www.pexels.com/photo/person-holding-vinyl-record-covering-their-face-10550163/
 
-Copyright (c) [2022] [Mitchell Routman]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+Also thank you GRABCAD for these awesome images: https://grabcad.com/library/milk-crate
 
 ## Technologies
 
@@ -90,10 +66,8 @@ The following technologies were used in the creation of this application:
 - dotenv
 - bcrypt
 
+## License
 
-## How to Contribute
+Copyright (c) 2022 stardust productions.
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
+Licensed under the MIT license
