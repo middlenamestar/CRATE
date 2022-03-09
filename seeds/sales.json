@@ -14,10 +14,10 @@
         "user_id": 2
     },
     {
-        "album_name": "The Cold Vein",
-        "artist": "Cannibal Ox",
-        "description": "That El-P joint that everybody forgot exists",
-        "photo": "https://www.amoeba.com/sized-images/max/800/800/uploads/albums/covers/by_title/T/cannibalox_coldvein.jpg",
+        "album_name": "ATLiens",
+        "artist": "outkast",
+        "description": "make an offer!",
+        "photo": "https://m.media-amazon.com/images/I/81YJQyqmkGL._SL1500_.jpg",
         "user_id": 1
     },
     {
@@ -25,6 +25,20 @@
       "artist": "DIGABLE PLANETS",
       "description": "Love this album. Anybody would b lucky to have these tunes hit they ears",
       "photo": "https://light-in-the-attic.s3.amazonaws.com/uploads/release_image/21434/image/tmp_2F1512513561238-8avux3squ4t-f560953555f9636be556e04fd4437e4a_2FMCR924_Cover.jpg",
-      "user_id": 6
+      "user_id": 1
+    },
+    {
+      "album_name": "disraeli gears",
+      "artist": "cream",
+      "description": "real trippy. this is a good one. in great condition ! my email is bluedenim@gmail.com, not asking for a crazy price! im based in new york btdubs!",
+      "photo": "https://m.media-amazon.com/images/I/91ZABdpeywL._SL1500_.jpg",
+      "user_id": 1
+    },
+    {
+      "album_name": "donuts",
+      "artist": "dilla",
+      "description": "lock this down my guy",
+      "photo": "https://m.media-amazon.com/images/I/915b4+DdMLL._SL1500_.jpg",
+      "user_id": 2
     }
   ]

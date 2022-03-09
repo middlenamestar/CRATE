@@ -1,12 +1,5 @@
 [
   {
-    "album_name": "Dr Octageinocologist",
-    "artist": "Dr Octagon",
-    "description": "One of the many strange kool keith aliases",
-    "photo": "https://m.media-amazon.com/images/I/713fVVO95tL._SL1200_.jpg",
-    "user_id": 1
-  },
-  {
     "album_name": "Black Star",
     "artist": "Black Star",
     "description": "The Classic. hmu",
@@ -14,10 +7,10 @@
     "user_id": 2
   },
   {
-    "album_name": "Enter the 36 Chambers",
-    "artist": "Wu-Tang",
-    "description": "Aw yeaaaaa, again and again",
-    "photo": "https://m.media-amazon.com/images/I/71Q2D-XDOaL._SL1200_.jpg",
+    "album_name": "illmatic",
+    "artist": "nas",
+    "description": "love me this classic",
+    "photo": "https://m.media-amazon.com/images/I/A1Uv+OPV22S._SY355_.jpg",
     "user_id": 1
   },
   {
@@ -32,6 +25,20 @@
     "artist": "TYLER, THE CREATOR",
     "description": "I'd really appreciate if someone could help me secure this vinyl so I could spiritually transport back to 2011",
     "photo": "https://m.media-amazon.com/images/I/61dWF4b9O3L.jpg",
-    "user_id": 6
+    "user_id": 2
+  },
+  {
+    "album_name": "modal soul",
+    "artist": "nujabes",
+    "description": "hey, im looking for this record if anyone has it for a fair price hmu! hydrangea@gmail.com, 555-0000.",
+    "photo": "https://images.roughtrade.com/product/images/files/000/211/901/hero/open-uri20210223-29375-5vi3l8?1614103077",
+    "user_id": 2
+  },
+  {
+    "album_name": "4:44",
+    "artist": "jay-z",
+    "description": "i really love this album and would love to secure it on vinyl. my number is 222-4444 and my email is bluedenim@gmail.com. hit my line if you got what I need!",
+    "photo": "https://c.saavncdn.com/552/4-44-English-2017-20191028074208-500x500.jpg",
+    "user_id": 1
   }
 ]
