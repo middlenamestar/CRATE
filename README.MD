@@ -1,7 +1,5 @@
 # crate ❒
 
-## Description
-
 crate is an online community where users can buy, sell, search for, and discover music. crate is designed to fill the gap left behind when brick and morter music stores began to shutter. While it is a marketplace, its primary goal is to create a platform to connect users and gather together the in the ways they used to.
 
 crate is a full-stack web application built primarily on node.js, MySql, Express, Handlebars, and deployed with Heroku. 
@@ -12,15 +10,9 @@ Users can:
  - Add comments to interact with other users
  - Secure login functionality
 
-## Table of Contents
-
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Usage
 
-heroku link
+*heroku link*
 
 Navigate through the homepage, where the user is presented with both DIG and SEEK sections. The user can click on a post of interest and check out the details of the post. Navigate to the DIG and SEEK tabs in the nav for content of only dig, or only seek.
 
@@ -28,9 +20,9 @@ User must register an account or log in to be able to make a post, or comment!
 
 The homepage once logged in will look like this - 
 
-screenshot
+*screenshot*
 
-![homepage](assets/screencapture-lit-oasis-94681-herokuapp-2022-03-07-15_03_33.png)
+<!-- ![homepage](assets/screencapture-lit-oasis-94681-herokuapp-2022-03-07-15_03_33.png) -->
 
 ## Contributors
 
