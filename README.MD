@@ -16,9 +16,7 @@ Users can:
 
 Navigate through the homepage, where the user is presented with both DIG and SEEK sections. The user can click on a post of interest and check out the details of the post. Navigate to the DIG and SEEK tabs in the nav for content of only dig, or only seek.
 
-User must register an account or log in to be able to make a post, or comment!
-
-The homepage once logged in will look like this - 
+User must register an account or log in to be able to make a post or comment!
 
 *screenshot*
 
