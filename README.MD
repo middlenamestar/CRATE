@@ -22,7 +22,7 @@ crate looks a little something like this:
 
 ![crate's landing page](assets/screenshot.png)
 
-Feel free to make your addition! Add a record, or post a call for a record you've been wanting!
+Please feel free to make your addition! Add a record, or post a call for a record you've been wanting!
 
 ## Contributors
 
